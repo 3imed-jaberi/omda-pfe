@@ -1,4 +1,4 @@
-# OMDA PFE
+# OMDA PFE aka My End of Studies Project
 
   - Architecture: ![Architecture](assets/Architecture.png)
   - Backend:
